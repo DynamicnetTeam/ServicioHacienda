@@ -1,0 +1,24 @@
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\ServicioHacienda.exe.config
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\ServicioHacienda.exe
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\ServicioHacienda.pdb
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.csprojAssemblyReference.cache
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.ProjectInstaller.resources
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.ServicioHacienda.resources
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.csproj.GenerateResource.cache
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.csproj.CoreCompileInputs.cache
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.exe
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.pdb
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\MySql.Data.dll
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\Google.Protobuf.dll
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\MySql.Data.xml
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.csproj.CopyComplete
+F:\Todo\Proyectos 10.2 Tokyo\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.csprojAssemblyReference.cache
+F:\Todo\Proyectos 10.2 Tokyo\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.ProjectInstaller.resources
+F:\Todo\Proyectos 10.2 Tokyo\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.ServicioHacienda.resources
+F:\Todo\Proyectos 10.2 Tokyo\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.csproj.GenerateResource.cache
+F:\Todo\Proyectos 10.2 Tokyo\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.csproj.CoreCompileInputs.cache
+F:\Todo\Proyectos 10.2 Tokyo\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.exe
+F:\Todo\Proyectos 10.2 Tokyo\ServicioHacienda\ServicioHacienda\ServicioHacienda\obj\Debug\ServicioHacienda.pdb
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\Microsoft.Xades.dll
+C:\Users\Public\Proyects\ServicioHacienda\ServicioHacienda\ServicioHacienda\bin\Debug\Newtonsoft.Json.dll
